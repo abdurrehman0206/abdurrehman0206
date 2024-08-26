@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing
 - **My Company**: [SolvSpot](https://solvspot.com/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrehman0206&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdurrehman0206&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrehman0206&layout=compact&theme=radical)
 
 ## 💬 Let's Chat About
 
