@@ -85,7 +85,7 @@
 <!-- ================== PROMPT: PC SPECS ================== -->
 <div align="left">
   <img src="./assets/pc-specs-prompt.svg" alt="Terminal prompt: abdurrehman@github:profile $ cat pc-specs" />
-</div>
+</div> 
 
 <br>
 
