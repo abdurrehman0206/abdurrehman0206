@@ -43,7 +43,7 @@
 
 <p align="center">
   <img
-  height="200em"
+  width="100%"
     src="https://ghchart.rshah.org/7F3FBF/abdurrehman0206"
     alt="GitHub contributions calendar — Dracula purple (#7F3FBF)" />
 </p>
