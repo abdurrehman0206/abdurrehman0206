@@ -24,8 +24,8 @@
 <br>
 
 <p align="center" style="width:100%;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=abdurrehman0206&show_icons=true&count_private=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats - Total commits, stars, and contributions" />
-  <img height="200em" src="https://streak-stats.demolab.com?user=abdurrehman0206&theme=dracula&hide_border=true" alt="GitHub streak" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdurrehman0206&show_icons=true&count_private=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats - Total commits, stars, and contributions" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=abdurrehman0206&theme=dracula&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center" style="width:100%;">
@@ -43,7 +43,7 @@
 
 <p align="center">
   <img
-  height="200em"
+  width="100%"
     src="https://ghchart.rshah.org/7F3FBF/abdurrehman0206"
     alt="GitHub contributions calendar — Dracula purple (#7F3FBF)" />
 </p>
