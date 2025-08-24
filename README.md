@@ -18,7 +18,7 @@
 
 <!-- ================== PROMPT: METRICS ================== -->
 <div align="left">
-  <img src="./assets/metrics-prompt.svg" alt="Terminal prompt: abdurrehman@github:profile $ cat high-impact-visual-metrics" />
+  <img src="./assets/metrics-prompt.svg" alt="Terminal prompt: abdurrehman@github:profile $ cat stats" />
 </div>
 
 <br>
