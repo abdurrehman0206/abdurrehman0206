@@ -1,0 +1,82 @@
+<svg fill="none" viewBox="0 0 800 60" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .prompt-container {
+          display: inline-flex;
+          align-items: center;
+          font-family: 'Consolas', 'Monaco', 'ui-monospace', monospace;
+          font-size: 16px;
+          font-weight: 600;
+          color: #F8F8F2;
+          margin: 24px 0 4px 0;
+        }
+        
+        .segment-container {
+          position: relative;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+        }
+        
+        .segment-1 {
+          background: linear-gradient(90deg, #7F3FBF, #C94B8E);
+          padding: 3px 15px;
+          border-radius: 20px 0px 0px 20px;
+          position: relative;
+          z-index: 999;
+        }
+        
+        .segment-1::after {
+          content: '';
+          position: absolute;
+          right: -8px;
+          top: 0px;
+          width: 20px;
+          height: 100%;
+          border-radius: 100%;
+          background-color: #C94B8E;
+        }
+        
+        .segment-2 {
+          background: linear-gradient(90deg, #F7C19C, #F7C19C);
+          padding: 3px 15px;
+          position: relative;
+          z-index: 99;
+        }
+        
+        .segment-2::after {
+          content: '';
+          position: absolute;
+          right: -8px;
+          top: 0;
+          width: 20px;
+          height: 100%;
+          border-radius: 100%;
+          background-color: #F7C19C;
+        }
+        
+        .segment-3 {
+          background: linear-gradient(90deg, #2A5F78, #366E8C);
+          padding: 3px 15px;
+          border-radius: 0 12px 12px 0;
+          position: relative;
+        }
+        
+        .command {
+          margin-left: 8px;
+          color: #F8F8F2;
+        }
+      </style>
+      
+      <div class="prompt-container">
+        <div class="segment-container">
+          <span class="segment-1">abdurrehman</span>
+          <span class="segment-2">github</span>
+          <span class="segment-3">profile</span>
+        </div>
+        <span class="command">cat high-impact-visual-metrics</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
