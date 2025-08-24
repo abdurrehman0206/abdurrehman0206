@@ -18,38 +18,37 @@
 
 <!-- ================== PROMPT: METRICS ================== -->
 <div align="left">
-  <img src="./assets/metrics-prompt.svg" alt="Terminal prompt: abdurrehman@github:profile $ cat high-impact-visual-metrics" />
+  <img src="./assets/metrics-prompt.svg" alt="Terminal prompt: abdurrehman@github:profile $ cat stats" />
 </div>
 
 <br>
 
 <p align="center" style="width:100%;">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=abdurrehman0206&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="195" src="https://streak-stats.demolab.com?user=abdurrehman0206&theme=dracula&hide_border=true" alt="GitHub streak" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=abdurrehman0206&show_icons=true&count_private=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats - Total commits, stars, and contributions" />
+  <img height="200em" src="https://streak-stats.demolab.com?user=abdurrehman0206&theme=dracula&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center" style="width:100%;">
-  <img height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrehman0206&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
-  <img height="205" src="https://github-readme-activity-graph.vercel.app/graph?username=abdurrehman0206&theme=dracula&hide_border=true&radius=8&area=true&area_color=FF79C6&line=BD93F9&point=50FA7B&color_scheme=dracula&bg_color=282A36" alt="Contribution Graph" />
+  <img height="245em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdurrehman0206&theme=dracula&hide_border=true&radius=8&area=true&area_color=FF79C6&line=BD93F9&point=50FA7B&color_scheme=dracula&bg_color=282A36" alt="Contribution Graph" />
 </p>
-
 <p align="center" style="width:100%;">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdurrehman0206&theme=dracula" alt="Profile details" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdurrehman0206&theme=dracula" alt="Profile details" />
 </p>
-
 <p align="center" style="width:100%;">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdurrehman0206&theme=dracula" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdurrehman0206&theme=dracula" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdurrehman0206&theme=dracula" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdurrehman0206&theme=dracula&utcOffset=5" />
+  <img height="205em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdurrehman0206&theme=dracula" />
+  <img height="205em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdurrehman0206&theme=dracula" />
+  <img height="205em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdurrehman0206&theme=dracula" />
+  <img height="205em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdurrehman0206&theme=dracula&utcOffset=5" />
 </p>
 
 <p align="center">
   <img
-  width="100%"
+  height="200em"
     src="https://ghchart.rshah.org/7F3FBF/abdurrehman0206"
     alt="GitHub contributions calendar — Dracula purple (#7F3FBF)" />
 </p>
+
+
 
 ---
 
@@ -92,7 +91,7 @@
 
 | **Component**                                                                                                             | **Details**                                                             |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <img src="https://static.cdnlogo.com/logos/i/52/intel.svg" width="18" alt="Intel"/> **CPU**                               | Intel **Core i5-14600KF** — 14-core (6P+8E), up to 5.3 GHz, 24 MB cache |
+| <img src="https://static.cdnlogo.com/logos/i/52/intel.svg" width="18" alt="Intel"/> **CPU**                               | Intel **Core i5-14600KF** 14-core 20-Thread, up to 5.3 GHz, 24 MB cache |
 | <img src="https://static.cdnlogo.com/logos/g/10/gigabyte-technology-2008.svg" width="26" alt="GIGABYTE"/> **Motherboard** | **GIGABYTE B760 GAMING X DDR4** LGA1700, DDR4, PCIe 4.0, triple M.2     |
 | <img src="https://static.cdnlogo.com/logos/x/34/xpg.svg" width="28" alt="XPG"/> **Memory**                                | **XPG D35 DDR4 32 GB** (2×16) @ 3600 MHz                                |
 | <img src="https://static.cdnlogo.com/logos/n/48/nvidia-image.svg" width="18" alt="NVIDIA"/> **GPU**                       | **GIGABYTE RTX 5070 WINDFORCE OC SFF 12G** (12 GB)                      |
@@ -113,7 +112,7 @@
 ### Screens
 
 - **GIGABYTE G34WQC** - 34″ Ultrawide, 3440×1440, 144 Hz
-- **ASUS VG27 series** - 27″ QHD, up to 165 Hz
+- **ASUS VG27 series** - 27″ QHD, up to 60 Hz
 
 ### Extras
 
