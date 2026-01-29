@@ -112,7 +112,7 @@
 ### Screens
 
 - **GIGABYTE G34WQC** - 34″ Ultrawide, 3440×1440, 144 Hz
-- **Lenvovo P32p-20 ** - 32″ 3840x2160 IPS
+- **Lenvovo P32p-20** - 32″ 3840x2160 IPS
 
 ### Extras
 
