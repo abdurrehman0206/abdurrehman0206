@@ -112,7 +112,7 @@
 ### Screens
 
 - **GIGABYTE G34WQC** - 34″ Ultrawide, 3440×1440, 144 Hz
-- **ASUS VG27 series** - 27″ QHD, up to 60 Hz
+- **Lenvovo P32p-20 ** - 32″ 3840x2160 IPS
 
 ### Extras
 
