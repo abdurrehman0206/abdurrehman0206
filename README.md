@@ -92,8 +92,8 @@
 | **Component**                                                                                                             | **Details**                                                             |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | <img src="https://static.cdnlogo.com/logos/i/52/intel.svg" width="18" alt="Intel"/> **CPU**                               | Intel **Core i5-14600KF** 14-core 20-Thread, up to 5.3 GHz, 24 MB cache |
-| <img src="https://static.cdnlogo.com/logos/g/10/gigabyte-technology-2008.svg" width="26" alt="GIGABYTE"/> **Motherboard** | **GIGABYTE B760 GAMING X DDR4** LGA1700, DDR4, PCIe 4.0, triple M.2     |
-| <img src="https://static.cdnlogo.com/logos/x/34/xpg.svg" width="28" alt="XPG"/> **Memory**                                | **XPG D35 DDR4 32 GB** (2×16) @ 3600 MHz                                |
+| <img src="https://static.cdnlogo.com/logos/g/10/gigabyte-technology-2008.svg" width="26" alt="GIGABYTE"/> **Motherboard** | **MSI Z790 GAMING Plus WIFI DDR5** LGA1700, DDR5, PCIe 4.0              |
+| <img src="https://static.cdnlogo.com/logos/x/34/xpg.svg" width="28" alt="XPG"/> **Memory**                                | **T-Force TeamGroup 32 GB** DDR5 (2×16) @ 6000 MHz                      |
 | <img src="https://static.cdnlogo.com/logos/n/48/nvidia-image.svg" width="18" alt="NVIDIA"/> **GPU**                       | **GIGABYTE RTX 5070 WINDFORCE OC SFF 12G** (12 GB)                      |
 | <img src="https://logo.clearbit.com/idcooling.com" width="22" alt="ID-COOLING"/> **Cooling**                              | **ID-COOLING SL360 SPACE XE** 360 mm AIO, 2.1″ 480×480 LCD              |
 | <img src="https://cdn.simpleicons.org/corsair/FFD700" width="18" alt="Corsair"/> **PSU**                                  | **Corsair CV650** 650 W, 80+ Bronze                                     |
@@ -117,6 +117,10 @@
 ### Extras
 
 - **PXN V99** wheel - up to 3.2 Nm FFB • 270°/900°
+
+### Laptop
+
+- **Macbook M4 Air**
 
 ---
 
