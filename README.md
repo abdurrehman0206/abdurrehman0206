@@ -1,13 +1,13 @@
 
 <h1 align="center" style="color:#BD93F9;margin:0;">Abdur Rehman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&width=900&color=FF79C6&lines=Full-Stack+Web+Developer+%7C+MERN+%2B+Next.js;Performance%2C+DX+%26+UX+focused;Building+SolvSpot%2C+Emblancia%2C+and+more" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&width=900&color=FF79C6&lines=Full-Stack+Web+Developer+%7C+MERN+%2B+Next.js;Performance%2C+DX+%26+UX+focused;Building+Scalable Web Apps%2C+Emblancia%2C+and+more" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://www.abdurrehman.dev"><img src="https://img.shields.io/badge/Portfolio-ABDURREHMAN.DEV-6272A4?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/abdurrehman0206/"><img src="https://img.shields.io/badge/LinkedIn-Connect-BD93F9?style=for-the-badge"></a>
-  <a href="https://www.solvspot.com/"><img src="https://img.shields.io/badge/Startup-SolvSpot-50FA7B?style=for-the-badge&logo=nextdotjs&logoColor=black"></a>
+  <!-- <a href="https://www.solvspot.com/"><img src="https://img.shields.io/badge/Startup-SolvSpot-50FA7B?style=for-the-badge&logo=nextdotjs&logoColor=black"></a> -->
   <a href="https://www.emblancia.com/"><img src="https://img.shields.io/badge/E--commerce-Emblancia-FF79C6?style=for-the-badge&logoColor=white"></a>
 </p>
 
@@ -76,6 +76,7 @@
 <br>
 
 - **SolvSpot** - Next.js + Prismic + GSAP • <a href="https://www.solvspot.com/">Live</a> • <a href="https://github.com/abdurrehman0206">Repo</a>
+- **PresenceOS** - React + Node.js + Pino + Fastify + PostgreSQL + Redis  • <a href="">Live</a> • <a href="https://github.com/abdurrehman0206">Repo</a>
 - **Emblancia** - E-commerce with ROI-focused SEO • <a href="https://emblancia.com/">Live</a> • <a href="https://github.com/abdurrehman0206">Repo</a>
 - **SenWare** - Inventory (Next.js • TS • Postgres • Prisma • shadcn/ui) • <a href="https://senware.vercel.app/login">Live</a> • <a href="https://github.com/abdurrehman0206/SenWare">Repo</a>
 - **MediCloud Billing** - 500+ claims/mo, chat & email automation • <a href="https://medicloudbilling.vercel.app/">Live</a> • <a href="https://github.com/abdurrehman0206/MediCloud">Repo</a>
