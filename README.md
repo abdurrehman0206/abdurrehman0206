@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color:#BD93F9;margin:0;">Abdur Rehman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&width=900&color=FF79C6&lines=Full-Stack+Web+Developer+%7C+MERN+%2B+Next.js;Performance%2C+DX+%26+UX+focused;Building+Scalable Web Apps%2C+Emblancia%2C+and+more" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&width=900&color=FF79C6&lines=Full-Stack+Web+Developer+%7C+MERN+%2B+Next.js;Performance%2C+DX+%26+UX+focused;Building+Scalable+Web+Apps%2C+Emblancia%2C+and+more" alt="Typing animation" />
 </p>
 
 <p align="center">
