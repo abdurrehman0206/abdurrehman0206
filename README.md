@@ -75,7 +75,6 @@
 
 <br>
 
-- **SolvSpot** - Next.js + Prismic + GSAP • <a href="https://www.solvspot.com/">Live</a> • <a href="https://github.com/abdurrehman0206">Repo</a>
 - **PresenceOS** - React + Node.js + Pino + Fastify + PostgreSQL + Redis  • <a href="">Live</a> • <a href="https://github.com/abdurrehman0206">Repo</a>
 - **Emblancia** - E-commerce with ROI-focused SEO • <a href="https://emblancia.com/">Live</a> • <a href="https://github.com/abdurrehman0206">Repo</a>
 - **SenWare** - Inventory (Next.js • TS • Postgres • Prisma • shadcn/ui) • <a href="https://senware.vercel.app/login">Live</a> • <a href="https://github.com/abdurrehman0206/SenWare">Repo</a>
