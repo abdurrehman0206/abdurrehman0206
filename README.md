@@ -1,4 +1,3 @@
-
 <h1 align="center" style="color:#BD93F9;margin:0;">Abdur Rehman</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&width=900&color=FF79C6&lines=Full-Stack+Web+Developer+%7C+MERN+%2B+Next.js;Performance%2C+DX+%26+UX+focused;Building+Scalable+Web+Apps%2C+Emblancia%2C+and+more" alt="Typing animation" />
@@ -96,18 +95,19 @@
 | <img src="https://static.cdnlogo.com/logos/x/34/xpg.svg" width="28" alt="XPG"/> **Memory**                                | **T-Force TeamGroup 32 GB** DDR5 (2×16) @ 6000 MHz                      |
 | <img src="https://static.cdnlogo.com/logos/n/48/nvidia-image.svg" width="18" alt="NVIDIA"/> **GPU**                       | **GIGABYTE RTX 5070 WINDFORCE OC SFF 12G** (12 GB)                      |
 | <img src="https://logo.clearbit.com/idcooling.com" width="22" alt="ID-COOLING"/> **Cooling**                              | **ID-COOLING SL360 SPACE XE** 360 mm AIO, 2.1″ 480×480 LCD              |
-| <img src="https://cdn.simpleicons.org/corsair/FFD700" width="18" alt="Corsair"/> **PSU**                                  | **Corsair CV650** 650 W, 80+ Bronze                                     |
-| <img src="https://static.cdnlogo.com/logos/x/34/xpg.svg" width="28" alt="XPG"/> **NVMe**                                  | **XPG S70 Blade 1 TB** (PCIe 4.0)                                       |
-| <img src="https://cdn.simpleicons.org/westerndigital/0083BE" width="18" alt="WD"/> **NVMe**                               | **WD_BLACK SN770 500 GB** (PCIe 4.0)                                    |
+| <img src="https://logo.clearbit.com/corsair.com" width="22" alt="Corsair"/> **Case**                                      | **Corsair Frame 5000D RS** Mid-Tower, Mesh Front, ARGB                  |
+| <img src="https://logo.clearbit.com/1stplayer.com" width="22" alt="1st Player"/> **PSU**                                  | **1st Player NGDP 1300W** 80+ Platinum, ATX 3.1, Fully Modular          |
+| <img src="https://logo.clearbit.com/samsung.com" width="22" alt="Samsung"/> **NVMe (Gen5)**                               | **Samsung 9100 PRO 2 TB** (PCIe 5.0)                                    |
+| <img src="https://cdn.simpleicons.org/westerndigital/0083BE" width="18" alt="WD"/> **NVMe (Gen4)**                        | **WD_BLACK SN770 500 GB** (PCIe 4.0)                                    |
 | <img src="https://cdn.simpleicons.org/kingstontechnology/DA001A" width="18" alt="Kingston"/> **SATA SSD**                 | **Kingston A400 240 GB**                                                |
 | <img src="https://cdn.simpleicons.org/seagate/64BB47" width="18" alt="Seagate"/> **HDD**                                  | **Seagate BarraCuda 2 TB**                                              |
 
 
 ### Peripherals
 
-- **Keyboards:** Bloody **B920R** (LK Orange optical) • Redragon **K616 Fizz Pro** (red) • Madlions **HE68** (magnetic Amber Pro)
+- **Keyboards:** Bloody **B920R** (LK Orange optical) • Redragon **K616 Fizz Pro** (red) • Madlions **HE68** (magnetic Amber Pro) • Attack Shark **R85HE** (magnetic Hall Effect)
 - **Mice:** Logitech **G502**, **G402** • Attack Shark **X6**
-- **Audio/Video:** Logitech **C920** HD Webcam • Fantech **Leviosa MCX01** Mic • Bloody **MR710** headset
+- **Audio/Video:** Logitech **C920** HD Webcam • Fantech **Leviosa MCX01** Mic • Logitech **Pro X 2** Headset • Bloody **MR710** Headset
 
 ### Screens
 
