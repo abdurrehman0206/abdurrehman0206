@@ -88,39 +88,46 @@
 
 <br>
 
-| **Component**                                                                                                             | **Details**                                                             |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <img src="https://static.cdnlogo.com/logos/i/52/intel.svg" width="18" alt="Intel"/> **CPU**                               | Intel **Core i5-14600KF** 14-core 20-Thread, up to 5.3 GHz, 24 MB cache |
-| <img src="https://static.cdnlogo.com/logos/g/10/gigabyte-technology-2008.svg" width="26" alt="GIGABYTE"/> **Motherboard** | **MSI Z790 GAMING Plus WIFI DDR5** LGA1700, DDR5, PCIe 4.0              |
-| <img src="https://static.cdnlogo.com/logos/x/34/xpg.svg" width="28" alt="XPG"/> **Memory**                                | **T-Force TeamGroup 32 GB** DDR5 (2×16) @ 6000 MHz                      |
-| <img src="https://static.cdnlogo.com/logos/n/48/nvidia-image.svg" width="18" alt="NVIDIA"/> **GPU**                       | **GIGABYTE RTX 5070 WINDFORCE OC SFF 12G** (12 GB)                      |
-| <img src="https://logo.clearbit.com/idcooling.com" width="22" alt="ID-COOLING"/> **Cooling**                              | **ID-COOLING SL360 SPACE XE** 360 mm AIO, 2.1″ 480×480 LCD              |
-| <img src="https://logo.clearbit.com/corsair.com" width="22" alt="Corsair"/> **Case**                                      | **Corsair Frame 5000D RS** Mid-Tower, Mesh Front, ARGB                  |
-| <img src="https://logo.clearbit.com/1stplayer.com" width="22" alt="1st Player"/> **PSU**                                  | **1st Player NGDP 1300W** 80+ Platinum, ATX 3.1, Fully Modular          |
-| <img src="https://logo.clearbit.com/samsung.com" width="22" alt="Samsung"/> **NVMe (Gen5)**                               | **Samsung 9100 PRO 2 TB** (PCIe 5.0)                                    |
-| <img src="https://cdn.simpleicons.org/westerndigital/0083BE" width="18" alt="WD"/> **NVMe (Gen4)**                        | **WD_BLACK SN770 500 GB** (PCIe 4.0)                                    |
-| <img src="https://cdn.simpleicons.org/kingstontechnology/DA001A" width="18" alt="Kingston"/> **SATA SSD**                 | **Kingston A400 240 GB**                                                |
-| <img src="https://cdn.simpleicons.org/seagate/64BB47" width="18" alt="Seagate"/> **HDD**                                  | **Seagate BarraCuda 2 TB**                                              |
+| **Component**                                                                                                                              | **Details**                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| <img src="https://img.logo.dev/intel.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Intel"/> **CPU**                                 | Intel **Core i5-14600KF** 14-core 20-Thread, up to 5.3 GHz, 24 MB cache    |
+| <img src="https://img.logo.dev/msi.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="MSI"/> **Motherboard**                             | **MSI Z790 GAMING Plus WIFI DDR5** LGA1700, DDR5, PCIe 4.0                 |
+| <img src="https://img.logo.dev/teamgroupinc.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="TeamGroup"/> **Memory**                   | **T-Force TeamGroup 32 GB** DDR5 (2×16) @ 6000 MHz                         |
+| <img src="https://img.logo.dev/nvidia.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="NVIDIA"/> **GPU**                               | **GIGABYTE RTX 5070 WINDFORCE OC SFF 12G** (12 GB)                         |
+| <img src="https://img.logo.dev/idcooling.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="ID-COOLING"/> **AIO Cooling**                | **ID-COOLING SL360 SPACE XE** 360 mm AIO, 2.1″ 480×480 LCD                 |
+| <img src="https://img.logo.dev/thermalright.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Thermalright"/> **Case Fans**             | **Thermalright TL-M12Q-R Infinity Mirror** 120 mm ARGB PWM ×13             |
+| <img src="https://img.logo.dev/corsair.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Corsair"/> **Case**                            | **Corsair Frame 5000D RS** Mid-Tower, Mesh Front, ARGB                     |
+| <img src="https://img.logo.dev/1stplayer.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="1st Player"/> **PSU**                        | **1st Player NGDP 1300W** 80+ Platinum, ATX 3.1, Fully Modular             |
+| <img src="https://img.logo.dev/samsung.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Samsung"/> **NVMe (Gen5)**                     | **Samsung 9100 PRO 2 TB** (PCIe 5.0)                                       |
+| <img src="https://img.logo.dev/westerndigital.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="WD"/> **NVMe (Gen4)**                   | **WD_BLACK SN770 500 GB** (PCIe 4.0)                                       |
+| <img src="https://img.logo.dev/lexar.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Lexar"/> **NVMe (Gen4)**                         | **Lexar NM710 500 GB** (PCIe 4.0)                                          |
+| <img src="https://img.logo.dev/kingston.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Kingston"/> **SATA SSD**                      | **Kingston A400 240 GB**                                                   |
+| <img src="https://img.logo.dev/seagate.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Seagate"/> **HDD**                             | **Seagate BarraCuda 2 TB**                                                 |
 
 
 ### Peripherals
 
-- **Keyboards:** Bloody **B920R** (LK Orange optical) • Redragon **K616 Fizz Pro** (red) • Madlions **HE68** (magnetic Amber Pro) • Attack Shark **R85HE** (magnetic Hall Effect)
-- **Mice:** Logitech **G502**, **G402** • Attack Shark **X6**
-- **Audio/Video:** Logitech **C920** HD Webcam • Fantech **Leviosa MCX01** Mic • Logitech **Pro X 2** Headset • Bloody **MR710** Headset
+- <img src="https://img.logo.dev/a4tech.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Bloody"/> **Bloody B920R** (LK Orange optical) &nbsp;•&nbsp; <img src="https://img.logo.dev/redragon.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Redragon"/> **Redragon K616 Fizz Pro** (red) &nbsp;•&nbsp; <img src="https://img.logo.dev/madlions.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Madlions"/> **Madlions HE68** (magnetic Amber Pro) &nbsp;•&nbsp; <img src="https://img.logo.dev/attackshark.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Attack Shark"/> **Attack Shark R85HE** (magnetic Hall Effect)
+- <img src="https://img.logo.dev/logitech.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Logitech"/> **Logitech G502** &nbsp;•&nbsp; **G402** &nbsp;•&nbsp; <img src="https://img.logo.dev/attackshark.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Attack Shark"/> **Attack Shark X6**
+- <img src="https://img.logo.dev/logitech.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Logitech"/> **Logitech C920** HD Webcam &nbsp;•&nbsp; <img src="https://img.logo.dev/fantech.id?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Fantech"/> **Fantech Leviosa MCX01** Mic &nbsp;•&nbsp; <img src="https://img.logo.dev/logitech.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Logitech"/> **Logitech PRO X 2** Headset &nbsp;•&nbsp; <img src="https://img.logo.dev/a4tech.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Bloody"/> **Bloody MR710** Headset
 
 ### Screens
 
-- **GIGABYTE G34WQC** - 34″ Ultrawide, 3440×1440, 144 Hz
-- **Lenvovo P32p-20** - 32″ 3840x2160 IPS
+- <img src="https://img.logo.dev/gigabyte.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="GIGABYTE"/> **GIGABYTE G34WQC** - 34″ Ultrawide, 3440×1440, 144 Hz
+- <img src="https://img.logo.dev/lenovo.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Lenovo"/> **Lenovo P32p-20** - 32″ 3840×2160 IPS
+
+### Furniture & Mounts
+
+- <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.logo.dev%2Fmxgpakistan.com%3Ftoken%3Dpk_X-1ZO13GSgeOoUrIuJ6GMQ%26size%3D200&filt=negate&output=png" width="18" alt="MXG"/> **MXG VMA-24P** - Heavy-Duty Dual Gas-Spring Monitor Arm, up to 49″ / 20 kg per screen
+- <img src="https://img.logo.dev/andaseat.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="AndaSeat"/> **AndaSeat Air Pro Mesh** - Ergonomic gaming chair, breathable mesh, lumbar support
 
 ### Extras
 
-- **PXN V99** wheel - up to 3.2 Nm FFB • 270°/900°
+- <img src="https://img.logo.dev/pxn-game.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="PXN"/> **PXN V99** wheel - up to 3.2 Nm FFB • 270°/900°
 
 ### Laptop
 
-- **Macbook M4 Air**
+- <img src="https://img.logo.dev/apple.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="18" alt="Apple"/> **MacBook Air M4**
 
 ---
 
