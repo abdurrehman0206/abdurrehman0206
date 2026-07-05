@@ -93,7 +93,7 @@
 | <img src="https://img.logo.dev/intel.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Intel"/> **CPU**                                 | Intel **Core i5-14600KF** 14-core 20-Thread, up to 5.3 GHz, 24 MB cache    |
 | <img src="https://img.logo.dev/msi.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="MSI"/> **Motherboard**                             | **MSI Z790 GAMING Plus WIFI DDR5** LGA1700, DDR5, PCIe 4.0                 |
 | <img src="https://img.logo.dev/teamgroupinc.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="TeamGroup"/> **Memory**                   | **T-Force TeamGroup 32 GB** DDR5 (2×16) @ 6000 MHz                         |
-| <img src="https://img.logo.dev/nvidia.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="NVIDIA"/> **GPU**                               | **GIGABYTE RTX 5070 WINDFORCE OC SFF 12G** (12 GB)                         |
+| <img src="https://img.logo.dev/nvidia.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="NVIDIA"/> **GPU**                               | **ASUS PROART OC RTX 5080 16G** (16 GB)                         |
 | <img src="https://img.logo.dev/idcooling.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="ID-COOLING"/> **AIO Cooling**                | **ID-COOLING SL360 SPACE XE** 360 mm AIO, 2.1″ 480×480 LCD                 |
 | <img src="https://img.logo.dev/thermalright.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Thermalright"/> **Case Fans**             | **Thermalright TL-M12Q-R Infinity Mirror** 120 mm ARGB PWM ×13             |
 | <img src="https://img.logo.dev/corsair.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Corsair"/> **Case**                            | **Corsair Frame 5000D RS** Mid-Tower, Mesh Front, ARGB                     |
