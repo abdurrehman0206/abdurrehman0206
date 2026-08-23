@@ -90,7 +90,7 @@
 
 | **Component**                                                                                                                              | **Details**                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| <img src="https://img.logo.dev/intel.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Intel"/> **CPU**                                 | Intel **Core i5-14600KF** 14-core 20-Thread, up to 5.3 GHz, 24 MB cache    |
+| <img src="https://img.logo.dev/intel.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="Intel"/> **CPU**                                 | Intel **Core i9-14900K** 24-core 32-Thread, up to 6 GHz, 36 MB cache    |
 | <img src="https://img.logo.dev/msi.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="MSI"/> **Motherboard**                             | **MSI Z790 GAMING Plus WIFI DDR5** LGA1700, DDR5, PCIe 4.0                 |
 | <img src="https://img.logo.dev/teamgroupinc.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="TeamGroup"/> **Memory**                   | **T-Force TeamGroup 32 GB** DDR5 (2×16) @ 6000 MHz                         |
 | <img src="https://img.logo.dev/nvidia.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ" width="22" alt="NVIDIA"/> **GPU**                               | **ASUS PROART OC RTX 5080 16G** (16 GB)                         |
